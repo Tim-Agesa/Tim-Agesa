@@ -1,6 +1,5 @@
-### Hi there 👋
-
-<!--
+### <p align="center">Hello Friends 👋, I am Tim Agesa.</p>.
+papa piethegieth
 **Tim-Agesa/Tim-Agesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
