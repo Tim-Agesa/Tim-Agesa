@@ -19,21 +19,18 @@
 - ![](https://img.shields.io/badge/Editor-Sublimetext-informational?style=flat&logo=sublimetext&logoColor=white&color=2bbc8a)
 
 
-## &#128736;  Inspiration.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning data science
+- 👯 I’m looking to collaborate on some cool data science projects
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... I love playing chess, you can find me as papa_piethegieth at chess.com. Don't ask about the username 😄.
 
 ## &#x1f4c8; GitHub Stats
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tim-Agesa&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>  
+
+## 	&#128161;  Inspiration.
+This was greatly inspired by __Martin Heinz__:
+- Article [here](https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7)
