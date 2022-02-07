@@ -1,7 +1,13 @@
 # <p align="center">Hello, Friends <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
 <img src="header_2.png" alt="header" width="2500" height="400"/>
+
+
   
+- 🌱 I’m currently learning data science.
+- 👯 I’m looking to collaborate with other data scientists on some cool data science projects..
+- ⚡ Fun fact: ... I love playing chess, you can find me as papa_piethegieth at chess.com. Please don't ask about the username 😄.
+
 ## &#128736;  Languages & Tools.  
 
 - ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -18,14 +24,6 @@
   
 - ![](https://img.shields.io/badge/Editor-Sublimetext-informational?style=flat&logo=sublimetext&logoColor=white&color=2bbc8a)
   
-
-## &#128736;  Technologies & Tools I Use.
-
-- 🌱 I’m currently learning data science
-- 👯 I’m looking to collaborate on some cool data science projects
-- 🤔 I’m looking for help with ...
-- ⚡ Fun fact: ... I love playing chess, you can find me as papa_piethegieth at chess.com. Don't ask about the username 😄.
-
 ## &#x1f4c8; GitHub Stats
 
 
@@ -35,3 +33,8 @@
 ## 	&#128161;  Inspiration.
 This was greatly inspired by __Martin Heinz__:
 - Article [here](https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7)
+
+
+
+
+
