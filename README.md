@@ -2,7 +2,7 @@
 
 <img src="header_2.png" alt="header" width="2500" height="400"/>
   
-## &#128736;  Technologies & Tools I Use.  
+## &#128736;  Languages & Tools.  
 
 - ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 
