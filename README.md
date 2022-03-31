@@ -4,8 +4,8 @@
 
 
   
-- 🌱 I’m currently learning data science.
-- 👯 I’m looking to collaborate with other data scientists on some cool data science projects..
+- 🌱 My passion is in cyber security.
+- 👯 I’m looking to collaborate with other like minded people in this field.
 - ⚡ Fun fact: ... I love playing chess, you can find me as papa_piethegieth at chess.com. Please don't ask about the username 😄.
 
 ## &#128736;  Languages & Tools.  
@@ -13,10 +13,6 @@
 - ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 
 - ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-  
-- ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-
-- ![](https://img.shields.io/badge/Tools-Excel-informational?style=flat&logo=microsoftexcel&logoColor=white&color=2bbc8a)
   
 - ![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=2bbc8a)
   
