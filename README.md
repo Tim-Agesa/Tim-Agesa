@@ -4,7 +4,7 @@
 
 
   
-- 🌱 My passion is in cyber security.
+- 🌱 My passion is in Data Science.
 - 👯 I’m looking to collaborate with other like minded people in this field.
 - ⚡ Fun fact: ... I love playing chess, you can find me as papa_piethegieth at chess.com. Please don't ask about the username 😄.
 
